@@ -1,0 +1,15 @@
+commerce_payment.commerce_payment_gateway.plugin.hbepay:
+  type: commerce_payment_gateway_configuration
+  mapping:
+    description:
+      type: string
+      label: 'Description'
+    client_id:
+      type: string
+      label: 'Client ID'
+    client_secret:
+      type: string
+      label: 'Client secret'
+    terminal:
+      type: string
+      label: 'Terminal'

@@ -1,0 +1,18 @@
+name: HB Epay
+type: module
+description: HB Epay payments gateway module
+# core: 8.x
+package: Commerce (contrib)
+dependencies:
+  - commerce_payment
+
+# Information added by Drupal.org packaging script on 2019-07-17
+# version: '8.x-2.0'
+core: '8.x'
+# project: 'hbepay'
+# datestamp: 1504782545
+
+# Information added by Drupal.org packaging script on 2019-09-05
+version: '8.x-2.0-dev'
+project: 'hbepay'
+datestamp: 1567660695
